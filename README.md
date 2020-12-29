@@ -1,27 +1,17 @@
-# Party Together Maybe Good Idea 
+# Fanline 
 
-My old idea is, you listening in music from Spotify. I want to like a party room. 
-
-## New Ideas 
-- When i saw api i taught your most listen music, artist, etc. I wanna make leaderboard. 
-
-
-## Old Ideas
-- Room system 
-- They listen music together
+Give me time !
 
 ## Requirements
 - [] We need Spotify API 
 - [] Terminal 
-- [] VSCODE
+- [] Vscode
 - [] Node.js
-- [] Vue.js
+- [] Vue.js | Nuxt
 - [] Figma
 
 ## Tech 
 - [] Express for server 
 - [] For security Helmet.js
-- [] For frontend Svelte | Vue | Nuxt 
-- [] 
-
+- [] For frontend Vue or Nuxt 
 

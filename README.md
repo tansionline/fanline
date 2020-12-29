@@ -3,15 +3,14 @@
 Give me time !
 
 ## Requirements
-- [] We need Spotify API 
-- [] Terminal 
-- [] Vscode
-- [] Node.js
-- [] Vue.js | Nuxt
-- [] Figma
-
+- [x] We need Spotify API 
+- [x] Terminal 
+- [x] Vscode
+- [x] Node.js
+- [ ] Vue.js | Nuxt
+- [ ] Figma
 ## Tech 
-- [] Express for server 
-- [] For security Helmet.js
-- [] For frontend Vue or Nuxt 
+- [x] Express for server 
+- [ ] For security Helmet.js
+- [ ] For frontend Vue or Nuxt 
 
